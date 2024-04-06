@@ -20,6 +20,12 @@
   <img src="https://github.com/Yugal2003/Restaurants-App-Using-React-ToolKit/assets/132428388/d5ae8941-a09c-4da5-81d8-d3c7fb621112" /><br>
 </ul>
 
+<ul>
+  <li><h2>FireBase Authentication</h2></li>
+  <img src="https://github.com/Yugal2003/Restaurants-App-Using-React-ToolKit/assets/132428388/aa3edf24-e6f0-4f2f-8512-43ece43833ac" /><br>
+</ul>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
