@@ -1,0 +1,54 @@
+.main{
+    margin-inline: 8rem;
+}
+.homepage_all_resto_details{
+    margin-top: 2rem;
+    margin-inline: 2rem;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    border-radius: 5px;
+    display: inline-block;
+    box-shadow: -1px -1px 10px 1px rgba(166,166,166,1);
+}
+.homepage_all_resto_details img:hover{
+    transform: scale(1.03);
+}
+.homepage_all_resto_details img{
+    margin: 0.6rem;
+    border-radius: 10px;
+    width: 330px;
+    height: 250px;
+}
+.dish_plus_rating{
+    justify-content: space-between;
+    padding: 0.2rem 0.6rem;
+    display: flex;
+    flex-direction: row;
+}
+.dish_plus_rating .rating{
+    color: white;
+    padding-inline: 0.5rem;
+    border-radius: 5px;
+    background-color: rgb(22, 107, 22);
+}
+.address_plus_price{
+    justify-content: space-between;
+    padding: 0.2rem 0.6rem;
+    display: flex;
+    flex-direction: row;
+}
+.Add_to_cart_btn_homepage{
+    border-radius: 5px;
+    border: none;
+    color: #FFFFFF;
+    font-family: cursive;
+    background-color: #FF4D6C;
+    padding: 0.2rem 0.7rem;
+    margin: 0.2rem 8rem;
+    width: 100px;
+    cursor: pointer;
+}
+.Add_to_cart_btn_homepage:hover{
+    transform: scale(1.03);
+}

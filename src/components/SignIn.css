@@ -1,0 +1,45 @@
+body{
+    overflow-x: hidden;
+}
+.signin{
+    width: 100vw;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.loginpage{
+    box-shadow: 1px 3px 20px 4px rgb(149, 133, 233);
+    border-radius: 10px;
+    text-align: center;
+    background-color: #8887C5;
+    width: 25vw;
+    height: 300px;
+}
+.loginpage_fill_data{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    margin-inline: 4rem;
+}
+.loginpage_fill_data input{
+    border-radius: 5px;
+    font-weight: bold;
+    margin-block: 0.8rem;
+    padding: 0.6rem 0.8rem;
+    border: none;
+}
+.loginpage button{
+    border: none;
+    margin-top: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 30px;
+    padding: 0.5rem 1.5rem;
+}
+.loginpage button:hover{
+    transform: scale(1.03);
+    background-color: rgb(209, 210, 211);
+}

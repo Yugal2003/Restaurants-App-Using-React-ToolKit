@@ -1,0 +1,55 @@
+.h1_plus_icon_display_flex{
+    display: flex;
+    color: white;
+    flex-direction: row;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1.5rem 2.5rem;
+    justify-content: space-between;
+}
+.two_btn_plus_cart{
+    display: flex;
+    flex-direction: row;
+}
+.logo_plus_counter{
+   display: flex;
+   flex-direction: row;
+}
+.logo_plus_counter p{
+    background-color: red;
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: 10px;
+}
+.two_btn{
+    margin-top: 0.5rem;
+    margin-right: 2rem;
+}
+.first_btn_in_headers{
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(235, 235, 54);
+    color:  rgb(0, 0, 0);
+    border: none;
+    margin-right: 1rem;
+    padding: 0.4rem 0.7rem;
+    cursor: pointer;
+}
+.first_btn_in_headers:hover{
+    background-color: rgb(216, 216, 49);
+    transform: scale(1.03);
+}
+.second_btn_in_headers{
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(235, 235, 54);
+    color:  rgb(0, 0, 0);
+    border: none;
+    margin-right: 1rem;
+    cursor: pointer;
+    padding: 0.4rem 0.7rem;
+}
+.second_btn_in_headers:hover{
+    background-color: rgb(216, 216, 49);
+    transform: scale(1.03);
+}
